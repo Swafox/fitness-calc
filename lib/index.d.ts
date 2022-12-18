@@ -1,0 +1,11 @@
+export declare function oneRepMaxEpley(weight: number, reps: number): number;
+export declare function oneRepMaxBrzycki(weight: number, reps: number): number;
+export declare function oneRepMaxMcGlothin(weight: number, reps: number): number;
+export declare function oneRepMaxLombardi(weight: number, reps: number): number;
+export declare function oneRepMaxMayhew(weight: number, reps: number): number;
+export declare function oneRepMaxOConner(weight: number, reps: number): number;
+export declare function oneRepMaxWathan(weight: number, reps: number): number;
+export declare function BMR_men(weight: number, height: number, age: number): number;
+export declare function BMR_women(weight: number, height: number, age: number): number;
+export declare function IBW_men(height: number, age: number): number;
+export declare function IBW_women(height: number, age: number): number;
