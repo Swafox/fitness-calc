@@ -18,12 +18,12 @@ npm install fitness-calc
 ES6 import for typical API call signing use case:
 
 ```javascript
-import oneRepMaxEpley from 'fitness-calc';
+const fitness = require('fitness-calc');
 
 const weight = 100;
 const reps = 5;
 
-const oneRepMax = oneRepMaxEpley(weight, reps);
+const oneRepMax = fitness.oneRepMaxEpley(weight, reps);
 console.log(oneRepMax);
 ```
 
