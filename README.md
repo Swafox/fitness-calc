@@ -1,6 +1,10 @@
-# fitness-calc
+<img src="https://img.shields.io/npm/v/fitness-calc?color=red" /></a>
+<img src="https://img.shields.io/github/actions/workflow/status/Swafox/fitness-calc/node.js.yml" /></a>
+<img src="https://img.shields.io/npm/l/fitness-calc" /></a>
 
-Function library for calculating fitness related values
+# Fitness-calc
+
+Function library for calculating fitness related values. Includes both strength and dieting related formulas.
 
 ## Node.js (Install)
 
@@ -51,6 +55,11 @@ console.log(oneRepMax);
 - `IBW_women(height, age)` - IBW for women
 
 ## Release notes
+### 1.0.2
+Improve test cases and description
+
+### 1.0.1
+Add BMR
 
 ### 1.0.0
 Initial release.
