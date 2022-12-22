@@ -1,6 +1,6 @@
 {
   "name": "fitness-calc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Function library for calculating fitness related values",
   "main": "./lib/index.js",
   "scripts": {
